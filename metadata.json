@@ -1,0 +1,5 @@
+{
+  "name": "IconSlicer AI",
+  "description": "Intelligent icon extraction tool. Upload a sprite sheet, let AI detect the layout, and auto-slice your icons for download.",
+  "requestFramePermissions": []
+}
